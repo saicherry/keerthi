@@ -9,6 +9,13 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <div>
+      user name:<input type ="text" placeholder='username' />
+       mail id : <input type ="text" placeholder='mail id'/>
+        password: <input type ="text" placeholder='password'/>
+    </div>
+
         <a
           className="App-link"
           href="https://reactjs.org"
